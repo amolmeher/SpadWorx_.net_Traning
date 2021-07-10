@@ -14,7 +14,7 @@ namespace Assiment_Two
             pu obj22= new pu();
             string s = obj22.Gun();
             Console.WriteLine(s);
-
+            // fgfdgf
       }
        
     }
